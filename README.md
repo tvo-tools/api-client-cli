@@ -1,3 +1,10 @@
+# questions
+
+- is there an opportunities?
+  - need to review this list https://github.com/stepci/awesome-api-clients?tab=readme-ov-file
+- what's other work that can be leveraged?
+  - again, review the above list to answer this question
+
 # why
 
 - I need a simple way to run postman-collections from the command line
@@ -24,5 +31,6 @@ Automate API client from cli
 # resources
 - https://github.com/httpie/cli?tab=readme-ov-file
 - https://github.com/usebruno/bruno?tab=readme-ov-file
+- https://github.com/stepci/awesome-api-clients?tab=readme-ov-file
 
 
