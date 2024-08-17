@@ -23,5 +23,6 @@ Automate API client from cli
 
 # resources
 - https://github.com/httpie/cli?tab=readme-ov-file
+- https://github.com/usebruno/bruno?tab=readme-ov-file
 
 
