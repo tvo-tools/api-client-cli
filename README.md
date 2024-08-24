@@ -1,14 +1,13 @@
 # questions
 
 - is there an opportunity?
-  - need to review this list https://github.com/stepci/awesome-api-clients?tab=readme-ov-file
-  - yes, command line API client to collect API use cases with the following features
-    - offline and cli first
-    - automated acceptance tests, written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, they help improve communication, collaboration and trust on your team. 💖
+  - command line automated acceptance tests API client to collect API use cases with the following features
+    - offline and CLI first
+    - Automated acceptance tests are written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because anyone can read them, they help improve communication, collaboration and trust in your team. 💖
     - testable design for workflow/scenarios/use cases 
     - security built-in
     - collect use cases for API
-    - written mainly in TypeScript
+    - written mainly in TypeScript and functional style
 - What other work can be leveraged?
   - https://github.com/stepci/awesome-api-clients?tab=readme-ov-file
   - https://github.com/sharat87/prestige
@@ -16,6 +15,7 @@
   - https://github.com/usebruno/bruno
   - https://httpie.io/
   - https://github.com/grafana/k6
+  - https://github.com/cucumber
 
 # why
 
@@ -34,15 +34,20 @@
   - Build a community of users and contributors
 
 - Some projects that have done it right
-  Shoutout to Taylor Otwell, the creator of Laravel, and Adam Wathan, the creator of Tailwind CSS. They have been a huge inspiration and have shown that you can build a sustainable open-source project without raising VC funding or selling the project.
+  Shoutout to Taylor Otwell, the creator of Laravel, and Adam Wathan, the creator of Tailwind CSS. They have been a huge inspiration and have shown that you can build a sustainable open-source project without raising VC funding or selling it.
 
 # api-client-cli
 
-Automate API client from cli
+Automate acceptance tests from CLI
 
 # resources
 - https://github.com/httpie/cli?tab=readme-ov-file
 - https://github.com/usebruno/bruno?tab=readme-ov-file
 - https://github.com/stepci/awesome-api-clients?tab=readme-ov-file
+- https://github.com/sharat87/prestige
+- https://github.com/curl/curl
+- https://httpie.io/
+- https://github.com/grafana/k6
+- https://github.com/cucumber
 
 
