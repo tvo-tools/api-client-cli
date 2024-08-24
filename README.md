@@ -1,9 +1,21 @@
 # questions
 
-- is there an opportunities?
+- is there an opportunity?
   - need to review this list https://github.com/stepci/awesome-api-clients?tab=readme-ov-file
-- what's other work that can be leveraged?
-  - again, review the above list to answer this question
+  - yes, command line API client to collect API use cases with the following features
+    - offline and cli first
+    - automated acceptance tests, written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, they help improve communication, collaboration and trust on your team. 💖
+    - testable design for workflow/scenarios/use cases 
+    - security built-in
+    - collect use cases for API
+    - written mainly in TypeScript
+- What other work can be leveraged?
+  - https://github.com/stepci/awesome-api-clients?tab=readme-ov-file
+  - https://github.com/sharat87/prestige
+  - https://github.com/curl/curl
+  - https://github.com/usebruno/bruno
+  - https://httpie.io/
+  - https://github.com/grafana/k6
 
 # why
 
