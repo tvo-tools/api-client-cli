@@ -19,7 +19,7 @@
 
 # why
 
-- I need a simple way to run postman-collections from the command line
+- I need a simple way to run postman-collections, bru or simply collections of curls from the command line
 - simple domain language to store collections
 - stores your collections directly in a folder on your filesystem. We use a plain text markup language to save information about API requests.
 - You can use Git or any version control to collaborate over your API collections.
@@ -36,7 +36,7 @@
 - Some projects that have done it right
   Shoutout to Taylor Otwell, the creator of Laravel, and Adam Wathan, the creator of Tailwind CSS. They have been a huge inspiration and have shown that you can build a sustainable open-source project without raising VC funding or selling it.
 
-# api-client-cli
+# automated-acceptance-api
 
 Automate acceptance tests from CLI
 
